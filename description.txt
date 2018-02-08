@@ -1,8 +1,7 @@
 Arduino RC + CV.
-13
-Гуми!!!
-
-
 
 https://www.youtube.com/watch?v=G78WBb5mOls     --------- YOUTUTEEEEEE VIDEOOO WITH LINKSSSS
+
+Идея -> Знаци + БАРКОД/QR код
+-> защо -> защото има библиотеки за четене на QR и баркодове 
 
